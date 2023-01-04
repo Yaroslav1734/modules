@@ -8,6 +8,7 @@
 #      https://www.gnu.org/licenses/agpl-3.0.html
 
 # requires: aiohttp
+# meta developer: @imalite
 
 import aiohttp
 from telethon.tl.types import Message
